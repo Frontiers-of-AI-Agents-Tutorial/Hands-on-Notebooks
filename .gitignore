@@ -3,3 +3,4 @@ cache.db
 chroma.log
 tmp/
 .venv/
+*.md
